@@ -8,13 +8,6 @@ Author: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c
     person("Ruth","Isserlin",role="aut"),
     person("Hussam","Kaka", role="aut"),
     person("Gary D","Bader",role="aut"))
-Authors@R: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c("aut", "cre")),
-    person("Philipp","Weber",role="aut"),
-    person("Ahmad","Shah", role="aut"),
-    person("Shirley","Hui",role="aut"),
-    person("Ruth","Isserlin",role="aut"),
-    person("Hussam","Kaka", role="aut"),
-    person("Gary D","Bader",role="aut"))
 Maintainer: Shraddha Pai <shraddha.pai@utoronto.ca>
 Description: Companion data package to run vignettes for netDx.
 Depends:
