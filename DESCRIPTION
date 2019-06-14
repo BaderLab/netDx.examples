@@ -1,12 +1,25 @@
 Package: netDx.examples
-Title: Example data to run netDx vignettes
-Version: 1.1
+Title: Companion data package to netDx
+Version: 0.99.0
+Author: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c("aut", "cre")),
+    person("Philipp","Weber",role="aut"),
+    person("Ahmad","Shah", role="aut"),
+    person("Shirley","Hui",role="aut"),
+    person("Ruth","Isserlin",role="aut"),
+    person("Hussam","Kaka", role="aut"),
+    person("Gary D","Bader",role="aut"))
 Authors@R: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c("aut", "cre")),
-	person("Ahmad","Shah",role="aut"))
-Description: Example data to run netDx vignettes
+    person("Philipp","Weber",role="aut"),
+    person("Ahmad","Shah", role="aut"),
+    person("Shirley","Hui",role="aut"),
+    person("Ruth","Isserlin",role="aut"),
+    person("Hussam","Kaka", role="aut"),
+    person("Gary D","Bader",role="aut"))
+Maintainer: Shraddha Pai <shraddha.pai@utoronto.ca>
+Description: Companion data package to run vignettes for netDx.
 Depends:
-    R (>= 3.1)
-Requires: netDx
-License: What license is it under?
+    R (>= 3.6)
+Suggests: netDx
+License: MIT
 LazyData: false
 RoxygenNote: 6.1.1
