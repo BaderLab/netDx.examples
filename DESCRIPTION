@@ -1,6 +1,6 @@
 Package: netDx.examples
 Title: Companion data package to netDx
-Version: 0.99.1
+Version: 0.99.2
 Author: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c("aut", "cre")),
     person("Philipp","Weber",role="aut"),
     person("Ahmad","Shah", role="aut"),
@@ -12,7 +12,6 @@ Maintainer: Shraddha Pai <shraddha.pai@utoronto.ca>
 Description: Companion data package to run vignettes for netDx.
 Depends:
     R (>= 3.6)
-Suggests: netDx
 License: MIT
 LazyData: false
 biocViews: ExperimentData,PackageTypeData
