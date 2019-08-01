@@ -19,6 +19,8 @@ The Cancer Genome Atlas. (2012). Nature 490:61-70.
 }
 \examples{
 data(TCGA_BRCA)
-head(TCGA_BRCA)
+head(pheno)
+head(xpr)
+head(cnv_GR)
 }
 \keyword{datasets}

@@ -1,6 +1,6 @@
 Package: netDx.examples
 Title: Companion data package to netDx
-Version: 0.99.2
+Version: 0.99.3
 Author: c(person("Shraddha", "Pai", email = "shraddha.pai@utoronto.ca", role = c("aut", "cre")),
     person("Philipp","Weber",role="aut"),
     person("Ahmad","Shah", role="aut"),
